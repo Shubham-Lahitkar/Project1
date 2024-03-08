@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "code": "P001",
+    "name": "Product 1",
+    "category": "Electronics",
+    "quantity": 10,
+    "inventoryStatus": "In Stock",
+    "price": 49.99
+  },
+  {
+    "id": 2,
+    "code": "P002",
+    "name": "Product 2",
+    "category": "Clothing",
+    "quantity": 20,
+    "inventoryStatus": "Out of Stock",
+    "price": 29.99
+  },
+  {
+    "id": 3,
+    "code": "P003",
+    "name": "Product 3",
+    "category": "Home & Kitchen",
+    "quantity": 15,
+    "inventoryStatus": "In Stock",
+    "price": 39.99
+  }
+]
